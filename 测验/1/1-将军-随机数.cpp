@@ -7,7 +7,7 @@ void solve()
 	int n; cin>>n; 
 	cout<<"Not Checkmate"<<endl;
 	cout<<"White"<<endl;
-//	while(n--)
+//	while(n--)  //亲测不行
 //	{
 //		int a,b; cin>>a>>b;
 //		for(int i=0;i<3;i++) 
